@@ -1,0 +1,14 @@
+streamlit~=1.26.0
+pandas~=2.0.3
+sqlalchemy~=2.0.20
+psycopg2~=2.9.7
+pathlib~=1.0.1
+bs4~=0.0.1
+streamlit-aggrid
+toml~=0.10.2
+openpyxl~=3.1.2
+xlsxwriter~=3.1.2
+beautifulsoup4~=4.12.2
+PyMySQL~=1.1.0
+dropbox~=11.36.2
+mysql-connector-python~=8.1.0
